@@ -1,1 +1,2 @@
-# EDA-DS---Credit-Score-Classification-Prediction
+## EDA & DS - Credit Score Classification Prediction
+---
